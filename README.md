@@ -1,8 +1,11 @@
 ![GitHub Logo](/images/welcomeToGinLane.jpg)
+
+Click [here](https://github.com/ginlane/welcome-to-gin-lane/wiki/1.-Welcome-to-Gin-Lane!) to go straight to our Dev Style Guide.
+
 #### This repository will serve as a place for:
 
 * Reusable code snippets
-* A development styleguide (see "Wiki") to standardise our codebase
+* A development styleguide (click [here](https://github.com/ginlane/welcome-to-gin-lane/wiki/1.-Welcome-to-Gin-Lane!)) to standardise our codebase
 * A place for on-boarding new developers and getting them up to speed with the tools, plugins & mixins we use
 
 **Please organise your code by its language, then identifier, such as "js-360", "coffee-async" or "scss-mixins".  If it is multiple languages, try be descriptive, EG: "haml_scss_coffee-boilerplate".**
